@@ -84,3 +84,6 @@ This is a Spotify Clone app made using Flutter for the frontend and Firebase for
 <div>
     <img src="screenshots/profile_dark.jpeg" alt="Profile Screen Dark" width="300"/>
 </div>
+
+## Acknowledgement
+Figma design template take from https://www.youtube.com/@flutterguys YT Channel
