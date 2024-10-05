@@ -1,0 +1,11 @@
+# Ignore Flutter build files
+/build/
+*.apk
+*.so
+
+# Flutter/Dart specific ignore patterns
+.dart_tool/
+.idea/
+.vscode/
+.packages
+.flutter-plugins
